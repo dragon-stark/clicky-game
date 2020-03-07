@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "image": "https://raw.githubusercontent.com/dragon-stark/CV-Portfolio-light/master/assets/images/24%20500.jpg",
+    "name": "name of card",
+    "clicked": false
+  },
+  {
+    "id": 2,
+    "image": "",
+    "name": "name of card",
+    "clicked": false
+  },
+  {
+    "id": 3,
+    "image": "url",
+    "name": "name of card",
+    "clicked": false
+  },
+  {
+    "id": 4,
+    "image": "url",
+    "name": "name of card",
+    "clicked": false
+  },
+  {
+    "id": 5,
+    "image": "url",
+    "name": "name of card",
+    "clicked": false
+  },
+  {
+    "id": 6,
+    "image": "url",
+    "name": "name of card",
+    "clicked": false
+  },
+  {
+    "id": 7,
+    "image": "url",
+    "name": "name of card",
+    "clicked": false
+  },
+  {
+    "id": 8,
+    "image": "url",
+    "name": "name of card",
+    "clicked": false
+  },
+  {
+    "id": 9,
+    "image": "url",
+    "name": "name of card",
+    "clicked": false
+  },
+  {
+    "id": 10,
+    "image": "url",
+    "name": "name of card",
+    "clicked": false
+  }
+]
