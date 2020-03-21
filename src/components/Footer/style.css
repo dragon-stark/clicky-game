@@ -1,10 +1,13 @@
+* {
+  font-family: "Special Elite", cursive;
+}
 .footer {
-  background: 
-  #6956AF;
-  height: 100px;
+  background: #0f0f0f3d;
+  height: 75px;
   position: relative;
-  color: white;
+  color: #ffffff;
   overflow: auto;
+  text-align: center;
 }
 
 .footer > .bottom {
@@ -12,8 +15,8 @@
   bottom: 0;
   left: 0;
   right: 0;
-  background:#5138A1;
-  padding: 8px;
+  background: #44444486;
+  padding: 25px;
   font-weight: 600;
 }
 

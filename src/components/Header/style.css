@@ -1,9 +1,14 @@
+* {
+  font-family: "Special Elite", cursive;
+}
 .header {
   background-color: #444444;
-  /* background-image: url("/assets/images/geometry.svg"); */
-  background-repeat: repeat;
-  color: white;
-  min-height: 400px;
+  background-image: url("/assets/images/Office.jpeg");
+  background-blend-mode: luminosity;
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: #160216;
+  min-height: 600px;
   padding: 180px 20px;
   padding-bottom: 140px;
   text-align: center;
@@ -13,4 +18,8 @@
   margin: 0;
   margin-bottom: 30px;
   font-size: 4rem;
+}
+.header h2 {
+  color: #ffffff;
+  font-stretch: condensed;
 }

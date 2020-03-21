@@ -1,3 +1,6 @@
+* {
+  font-family: "Special Elite", cursive;
+}
 .click-item {
   background-size: cover;
   background-position: center;
@@ -17,7 +20,7 @@
 }
 
 .shake {
-  animation: shake .5s 0.0125s;
+  animation: shake 0.5s 0.0125s;
 }
 
 @keyframes shake {
