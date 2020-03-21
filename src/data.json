@@ -1,73 +1,73 @@
 [
   {
     "id": 1,
-    "image": "../public/assets/images/Andy_Talking_head.png",
+    "image": "https://raw.githubusercontent.com/dragon-stark/clicky-game/master/public/assets/images/Andy_Talking_head.png",
     "name": "Andy",
     "clicked": false
   },
   {
     "id": 2,
-    "image": "../public/assets/images/angela-office-lead.png",
+    "image": "https://raw.githubusercontent.com/dragon-stark/clicky-game/master/public/assets/images/angela-office-lead.png",
     "name": "Angela",
     "clicked": false
   },
   {
     "id": 3,
-    "image": "../public/assets/images/creed.jpg",
+    "image": "https://raw.githubusercontent.com/dragon-stark/clicky-game/master/public/assets/images/creed.jpg",
     "name": "name of card",
     "clicked": false
   },
   {
     "id": 4,
-    "image": "../public/assets/images/darryl.jpeg",
+    "image": "https://raw.githubusercontent.com/dragon-stark/clicky-game/master/public/assets/images/darryl.jpeg",
     "name": "name of card",
     "clicked": false
   },
   {
     "id": 5,
-    "image": "../public/assets/images/Dwight.jpg",
+    "image": "https://raw.githubusercontent.com/dragon-stark/clicky-game/master/public/assets/images/Dwight.jpg",
     "name": "name of card",
     "clicked": false
   },
   {
     "id": 6,
-    "image": "../public/assets/images/jim.png",
+    "image": "https://raw.githubusercontent.com/dragon-stark/clicky-game/master/public/assets/images/jim.png",
     "name": "name of card",
     "clicked": false
   },
   {
     "id": 7,
-    "image": "../public/assets/images/Kevin-Malone.png",
+    "image": "https://raw.githubusercontent.com/dragon-stark/clicky-game/master/public/assets/images/Kevin-Malone.png",
     "name": "name of card",
     "clicked": false
   },
   {
     "id": 8,
-    "image": "../public/assets/images/Moes.jpg",
+    "image": "https://raw.githubusercontent.com/dragon-stark/clicky-game/master/public/assets/images/Moes.jpg",
     "name": "name of card",
     "clicked": false
   },
   {
     "id": 9,
-    "image": "../public/assets/images/OscarMartinez.png",
+    "image": "https://raw.githubusercontent.com/dragon-stark/clicky-game/master/public/assets/images/OscarMartinez.png",
     "name": "name of card",
     "clicked": false
   },
   {
     "id": 10,
-    "image": "../public/assets/images/stanley.jpg",
+    "image": "https://raw.githubusercontent.com/dragon-stark/clicky-game/master/public/assets/images/Stanley.jpg",
     "name": "name of card",
     "clicked": false
   },
   {
     "id": 11,
-    "image": "../public/assets/images/toby-the-office-png-.jpg",
+    "image": "https://raw.githubusercontent.com/dragon-stark/clicky-game/master/public/assets/images/toby-the-office-png-.jpg",
     "name": "name of card",
     "clicked": false
   },
   {
     "id": 12,
-    "image": "../public/assets/images/MichaelScott.jpg",
+    "image": "https://raw.githubusercontent.com/dragon-stark/clicky-game/master/public/assets/images/MichaelScott.jpg",
     "name": "name of card",
     "clicked": false
   }
