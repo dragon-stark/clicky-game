@@ -6,7 +6,7 @@ function Footer() {
     <footer className="footer">
       <div className="bottom">
         {" "}
-        Elizabeth H. | Clicky Game!
+        &copy; Elizabeth H. | Clicky Game!
         <img alt="react" src="assets/images/beet.png" />
       </div>
     </footer>
